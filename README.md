@@ -1,6 +1,6 @@
 <center> <h1>Homemade Pentago Champions: A Q-Learning Story</h1> </center>
 
-<center> <h3></h3>Joseph Gustad, Scott Robertson and Ernesto Oropeza</center>
+<center> <h3></h3> By: Joseph Gustad, Scott Robertson and Ernesto Oropeza</center>
 
 <left> <h2>Introduction and Project Goal</h2> </left>
 
