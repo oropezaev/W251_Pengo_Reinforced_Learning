@@ -1,5 +1,7 @@
 <center> <h1>Homemade Pentago Champions: A Q-Learning Story</h1> </center>
 
+<center> <h3></h3>Joseph Gustad, Scott Robertson and Ernesto Oropeza</center>
+
 <left> <h2>Introduction and Project Goal</h2> </left>
 
 Our team set out with a simple goal: to use reinforcement learning to build an agent that can consistently beat an opposing agent playing randomly. The path to doing this from a blank Jupyter notebook however, was not so simple. Along the way we made a large number of design choices (most of which were good), played hundreds of thousands of games of Pentago that generated millions of board states, and learned an immense amount about the advantages and challenges inherent in brewing your own training data for a project this ambitious.
